@@ -23,3 +23,10 @@ should also have flexible reporting features.
 
 ### Use Case
 ![tcvm use case](https://github.com/harmeet-saluja/tcvm/blob/master/images/tcvmusecase.png)
+
+### Running The Application
+1. Download the zip by clicking on **Clone or Download > Download as Zip**.
+2. Extract the donwloaded zip file.
+3. Open Eclipse. Click on **File > Import > Existing Maven Projects**.
+4. Go to **App.java** in **com.yash.tvcm** package.
+5. Right Click on **App.java**. Select **Run as > Java Application**.
