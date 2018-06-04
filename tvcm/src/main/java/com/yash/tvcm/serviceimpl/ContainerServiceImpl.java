@@ -96,8 +96,8 @@ public class ContainerServiceImpl implements ContainerService {
 		System.out.println("Container Status");
 		System.out.println("---------------------------------------------");
 		for (Container container : containers) {
-			System.out.println("Container:" + container.getIngredient() + "\tMax Capacity:" + container.getMaxCapacity()
-					+ "\tCurrent Capacity" + container.getCurrentCapacity());
+			System.out.println("Container:" + container.getIngredient() + "\t\tMax Capacity:" + container.getMaxCapacity()
+					+ "\t\tCurrent Capacity:" + container.getCurrentCapacity());
 		}
 	}
 }
