@@ -1,4 +1,4 @@
 # Tea-Coffee Vending Machine
 
 ### Use Case
-![](https://github.com/harmeet-saluja/tcvm/blob/master/images/tcvmusecase.png)
+![tcvm use case](https://github.com/harmeet-saluja/tcvm/blob/master/images/tcvmusecase.png)
