@@ -26,7 +26,7 @@ should also have flexible reporting features.
 
 ### Running The Application
 1. Download the zip by clicking on **Clone or Download > Download as Zip**.
-2. Extract the donwloaded zip file.
+2. Extract the downloaded zip file.
 3. Open Eclipse. Click on **File > Import > Existing Maven Projects**.
 4. Import the extracted folder.
 5. Go to **App.java** in **com.yash.tvcm** package.
